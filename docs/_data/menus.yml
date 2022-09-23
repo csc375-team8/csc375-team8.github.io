@@ -19,7 +19,7 @@ main:
   #   weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "Home"
